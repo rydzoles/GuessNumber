@@ -15,6 +15,7 @@ namespace GuessNumber
             RulesInformationToPlayer();
 
             var counter = 0;
+
             while (true)
             {
                 counter++;
